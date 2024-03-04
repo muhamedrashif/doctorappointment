@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "537669815185",
+    "project_id": "clinic-9c9c4",
+    "storage_bucket": "clinic-9c9c4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:537669815185:android:3821369548d6b9c13ce830",
+        "android_client_info": {
+          "package_name": "com.example.clinic"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD1OjSGrpGD6qtNmaipZltkZmWI6n4-qgc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:537669815185:android:e1c0683d4192b0663ce830",
+        "android_client_info": {
+          "package_name": "com.example.doctorappointment"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD1OjSGrpGD6qtNmaipZltkZmWI6n4-qgc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
